@@ -37,4 +37,4 @@ This project presents an interactive Power BI dashboard for analyzing coffee sho
 - `MY SQL Queries.docx` – SQL queries used for data preparation
 
 ## Screenshots
-![Dashboard Overview]()
+![Dashboard Overview](assets/Preview.png)
